@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'form_input.dart';
+import 'form_input.dart'; // imports form_input.dart file
 
 void main(){
   runApp(const MyApp());
@@ -12,7 +12,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: FormInput(),
+      debugShowCheckedModeBanner: false,// this remove debug mode banner
+      home: FormInput(),// this one helps to set the first screen the app will show
     );
   }
 }
