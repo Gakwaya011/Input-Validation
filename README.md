@@ -1,29 +1,18 @@
 # Multi-Form Flutter Application
 
 ## Overview
-This project is a Flutter-based multi-form application that validates user input fields. The application consists of at least two screens with input fields for Name, Address, Email, and Phone Number. The goal is to demonstrate input validation using Flutter's form validation mechanisms.
+This project is a Flutter-based multi-form application that validates user input fields. The application consists of two screens with input fields for Name, Email, and Phone Number. The goal is to demonstrate input validation using Flutter's form validation mechanisms.
 
 ## Features
 - Two screens for user input.
-- Input validation for at least three fields.
+- Input validation for  three fields.
 - Validation scripts for Name, Email, and Phone Number.
 - Error messages displayed when validation fails.
 - Well-structured folder organization.
 - Documented code with explanations.
 - Buttons for user interaction.
 
-## Folder Structure
-```
-project_root/
-│── lib/
-│   │── main.dart             # Entry point of the application
-│   │── screens/
-│   │   │── form_input.dart   # Main input form screen
-│   │   │── confirmation.dart # Second screen to show submitted data
-│   │── utils/
-│   │   │── validation.dart   # Validation functions for input fields
-│── pubspec.yaml              # Flutter dependencies
-```
+
 
 ## Installation & Setup
 1. **Clone the Repository:**
@@ -51,11 +40,7 @@ project_root/
 3. If validation fails, error messages are displayed.
 4. Submit the form to see a confirmation screen.
 
-## Submission Requirements
-- A **PDF document** containing:
-  - Your name.
-  - A link to the **video demo** of the application.
-  - A link to your **GitHub repository** containing the project code.
+
 
 ## Notes
 - The user interface is simple but functional.
@@ -63,4 +48,4 @@ project_root/
 - The application follows best practices in structuring and validation.
 
 ## Author
-[Christophe Gakwaya]
+Christophe Gakwaya
