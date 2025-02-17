@@ -17,8 +17,8 @@ This project is a Flutter-based multi-form application that validates user input
 ## Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone <your-repo-url>
-   cd <project-folder>
+   git clone https://github.com/Gakwaya011/Input-Validation.git
+   cd Input-Validation
    ```
 2. **Install Dependencies:**
    ```sh
